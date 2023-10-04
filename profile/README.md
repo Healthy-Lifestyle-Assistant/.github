@@ -12,6 +12,8 @@ Web application aims to support users to change their behavior and improve their
 
 [Backend](https://github.com/Healthy-Lifestyle-Assistant/backend)
 
+[Deploy](https://github.com/Healthy-Lifestyle-Assistant/deploy)
+
 ## Contacts
 
 [LinkedIn](https://www.linkedin.com/in/olegkdev/)
