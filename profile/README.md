@@ -12,7 +12,7 @@ Healthy Lifestyle Assistant is a web application that aims to support people to 
 
 [Backend](https://github.com/Healthy-Lifestyle-Assistant/backend)
 
-[Deploy](https://github.com/Healthy-Lifestyle-Assistant/deploy)
+[Config](https://github.com/Healthy-Lifestyle-Assistant/config)
 
 ## Contacts
 
