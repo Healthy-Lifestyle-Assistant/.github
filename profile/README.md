@@ -10,8 +10,6 @@ A healthy lifestyle is a way of living that lowers the risk of being seriously i
 office@healthy-lifestyle-assistant.com 
 <br><br>
 
-Founder, Oleg Kucherenko
-
-[LinkedIn](https://www.linkedin.com/in/oleg-kucherenko-developer/)
+Oleg Kucherenko [LinkedIn](https://www.linkedin.com/in/oleg-kucherenko/)
 
 oleg.kucherenko.developer@gmail.com
